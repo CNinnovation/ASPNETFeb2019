@@ -7,7 +7,7 @@
 3. Create *HelloController* with constructor injection using the IHelloService, and a *Greeting* method using the *IHelloService*
 4. Create a concrete imlpementation for the IHelloService
 5. Use the *HelloController* from the *Program* class
-6. Add the NuGet package *Microsoft.Extensions.DependendyInjection*
+6. Add the NuGet package *Microsoft.Extensions.DependencyInjection*
 7. Register services *IHelloService* and *HelloController* with the container
 8. Use the *HelloController* by getting a reference from the container
 
