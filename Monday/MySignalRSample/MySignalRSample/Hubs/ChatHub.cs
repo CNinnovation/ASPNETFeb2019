@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.Encodings.Web;
 using System.Threading.Tasks;
 
 namespace MySignalRSample.Hubs
@@ -12,7 +13,9 @@ namespace MySignalRSample.Hubs
 
         public async Task Send(string name, string message)
         {
-            await base.Clients.All.SendAsync("BroadcastMessage", name, message);
+            string encodedName = HtmlEncoder.Default.Encode(name);
+            string encodedMessage = HtmlEncoder.Default.Encode(message);
+            await base.Clients.All.SendAsync("BroadcastMessage", encodedName, encodedMessage);
         }
     }
 }
