@@ -1,4 +1,4 @@
-# ASP and ASP.NET Core Workshop
+# ASP and ASP.NET Core and Microsoft Azure Workshop
 
 ASP.NET Core course samples are here!
 
@@ -9,6 +9,8 @@ ASP.NET Core course samples are here!
 [Updated ASP.NET MVC course samples (20486)](https://github.com/MicrosoftLearning/20486-DevelopingASPNETMVCWebApplications)
 
 [Future ASP.NET Core course samples (20486D)](https://github.com/MicrosoftLearning/20486D-DevelopingASPNETMVCWebApplications)
+
+[Developing Microsoft Azure and Web Services (20487)](https://github.com/MicrosoftLearning/20487D-Developing-Microsoft-Azure-and-Web-Services)
 
 ## Exam Information
 
