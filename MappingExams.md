@@ -9,7 +9,7 @@
 * Caching - HTTP caching, Azure Redis caching, CDN
 * Web Sockets, SignalR, enable in App Services
 * Configuration - XML, INI, JSON, environmental variables, Option objects, user secrets, Azure Key vault
-* Hosting - Kinux, Windows, OWIN
+* Hosting - Linux, Windows, OWIN
 * Framework pipeline - Http.sys, Kestrel, startup filters
 
 ## Deployment Architecture
