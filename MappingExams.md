@@ -135,6 +135,7 @@
 * SOAP, WCF!!!
 * EF Core, 20487, Chapter 2
 * Logging, 20487, Chapter 8
+* Docker
 
 ## Thursday
 
@@ -144,5 +145,4 @@
 * Logic Apps
 * Traffic Management
 * API Management
-* Docker
 * Azure DevOps
