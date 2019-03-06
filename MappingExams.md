@@ -139,6 +139,7 @@
 
 ## Thursday
 
+* Web API, Swagger
 * WCF Data Services
 * Azure Cosmos DB, 20487, 7
 * HttpClient, factory 20487, 3
