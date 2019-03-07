@@ -136,13 +136,14 @@
 * EF Core, 20487, Chapter 2
 * Logging, 20487, Chapter 8
 * Docker
+* Web API, Swagger
 
 ## Thursday
 
-* Web API, Swagger
 * WCF Data Services
+* Storage - Blobs, Tables, Queues, 20487, 7
 * Azure Cosmos DB, 20487, 7
-* HttpClient, factory 20487, 3
+* HttpClient, factory 20487, 3, 4
 * Logic Apps
 * Traffic Management
 * API Management
